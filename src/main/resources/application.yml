@@ -1,0 +1,6 @@
+# Spring properties
+spring:
+# MONGODB (MongoProperties)
+  data:
+    mongodb:
+      uri: mongodb://localhost/microservices
